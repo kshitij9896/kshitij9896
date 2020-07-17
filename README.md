@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript & JS Frameworks 
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with documaintations
-- 💬 Ask me about python. Any Tech Related Stuff & Latest Tech Updates..
+- 💬 Ask me about python & JS. Any Tech Related Stuff & Latest Tech Updates..
 - 📫 How to reach me:Instagram : @thisiskshitijbansod
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: Listnening to music for more time
