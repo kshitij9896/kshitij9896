@@ -23,11 +23,11 @@
 
 ### Connect with me:
 
-<a href="https://kshitijbansod.netlify.app/" rel="nofollow" class="rich-diff-level-one"><img align="left" alt="Kshitij Bansod | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"></a>
+<a href="https://kshitijbansod.netlify.app/" rel="nofollow" class="rich-diff-level-one" target="_blank"><img align="left" alt="Kshitij Bansod | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"></a>
 
-<a href="https://www.linkedin.com/in/kshitij-bansod-411457199/" rel="nofollow" class="rich-diff-level-one"><img align="left" alt="Kshitij Bansod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/kshitij-bansod-411457199/" rel="nofollow" class="rich-diff-level-one" target="_blank"><img align="left" alt="Kshitij Bansod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>
 
-<a href="https://www.instagram.com/thisiskshitijbansod/" rel="nofollow" class="rich-diff-level-one"><img align="left" alt="Kshitij Bansod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/thisiskshitijbansod/" rel="nofollow" class="rich-diff-level-one" target="_blank"><img align="left" alt="Kshitij Bansod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;"></a>
 
 <br />
 <br />
