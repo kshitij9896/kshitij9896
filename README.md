@@ -53,11 +53,17 @@
 
 <br />
 <br />
+
+### Top Languages Card:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact">
+
+<br />
 <details>
  
   <summary>:zap: Github Stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitij9896&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true&theme=radical">
 
 </details>
 
