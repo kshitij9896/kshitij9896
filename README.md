@@ -31,6 +31,8 @@
 
 <a href="https://www.facebook.com/kshitij.bansod.7" rel="nofollow" class="rich-diff-level-one" target="_blank"><img align="left" alt="Kshitij Bansod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;"></a>
 
+<a href="https://twitter.com/kshitij_bansod" rel="nofollow" class="rich-diff-level-one" target="_blank"><img align="left" alt="Kshitij Bansod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;"></a>
+
 <br />
 <br />
 
