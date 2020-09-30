@@ -57,19 +57,19 @@
 
 <br />
 <br />
+<br />
 
 ### Top Languages Card:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact">
 
 <br />
-<details>
  
   <summary>:zap: Github Stats</summary>
+<br />  
   
   <img src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true&theme=radical">
 
-</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
