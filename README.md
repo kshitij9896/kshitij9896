@@ -1,3 +1,6 @@
+<img align="center" src="https://raw.githubusercontent.com/kshitij9896/kshitij9896/main/software engineer 1.svg"/>
+
+
 ### Hola, I am Kshitij Bansod 👋
 
 - 🔭 I’m currently working on Angular & React
