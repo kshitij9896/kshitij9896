@@ -1,5 +1,10 @@
 ### Hola, I am Kshitij Bansod 👋
 
+<h3 align="center"> 👋 Full Stack Developer </h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896" alt="kshitij bansod" /> </p>
+
 - 🔭 I’m currently working on Angular & React
 
 - 🌱 I’m currently learning Javascript & Going towards Full Stack Domain 
