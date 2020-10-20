@@ -1,6 +1,6 @@
 ### Hola, I am Kshitij Bansod 👋
 
-<h3 align="center"> 👋 Full Stack Developer </h3>
+<h3 align="center"> 👋 Full Stack Web Developer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896" alt="kshitij bansod" /> </p>
