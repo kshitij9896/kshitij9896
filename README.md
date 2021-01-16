@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896" alt="kshitij bansod" /> </p>
 
-- 🔭 I’m currently working on Angular & React
+- 🔭 I’m currently working on New Projects
 
-- 🌱 I’m currently learning Javascript & Going towards Full Stack Domain 
+- 🌱 I’m currently learning Javascript & Cybersecurity
 
-- 👯 I’m looking to collaborate with other Full Stack Developers
+- 👯 I’m looking to collaborate with other developers & developer communities
 
-- 🤔 I’m looking for help with documaintations
+- 🤔 I’m looking for help with Backend Domain
 
-- 💬 Ask me about python & JS. Any Tech Related Stuff & Latest Tech Updates..
+- 💬 Ask me about Javascript & Python. Any Tech Related Stuff & Latest Tech Updates..
 
 - 📫 How to reach me:Instagram : @thisiskshitijbansod
 
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact: Listening to music for hours
+- ⚡ Fun fact: Listening to music for hours,get bored with same stuff...
 
 <br />
   
@@ -77,11 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true&theme=radical">
 
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://kshitijbansod.netlify.app/
+[twitter]: https://twitter.com/kshitijbansod
+[youtube]: https://youtube.com/kshitijbansod
+[instagram]: https://instagram.com/thisiskshitijbansod
+[linkedin]: https://linkedin.com/in/kshitij-bansod
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
