@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Basics & Advanced Concepets to streghen my work**
 
-- 🌱 I’m currently learning **JavaScript, Angular,Reactjs & Project Based Learning**
+- 🌱 I’m currently learning **JavaScript,Front-end developement & UI/UX **
 
 - 👨‍💻 All of my projects are available at [https://kshitijbansod.netlify.app/](https://kshitijbansod.netlify.app/)
 
@@ -15,13 +15,11 @@
 
 - 💬 Ask me about **Basics,MaterialUI,New Tech Lang,Frameworks & Tech Gadgets**
 
-- 📫 How to reach me **kshitijbansod47@gmail.com** 
-
 - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.**
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: white;">
 <a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" style="background-color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kshitij9896" height="30" width="40" /></a>
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kshitij_bansod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-bansod" height="30" width="40" /></a>
