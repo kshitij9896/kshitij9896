@@ -5,32 +5,29 @@
 
 <p align="left"> <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij_bansod?logo=twitter&style=for-the-badge" alt="kshitij_bansod" /></a> </p>
 
-- 🔭 I’m currently working on **Frameworks**
+- 🔭 I’m currently working on **Basics & Advanced Concepets to streghen my work**
 
 - 🌱 I’m currently learning **JavaScript, Angular,Reactjs & Project Based Learning**
 
 - 👨‍💻 All of my projects are available at [https://kshitijbansod.netlify.app/](https://kshitijbansod.netlify.app/)
 
-- 📝 I regulary write articles on [https://kshitijbansodtech.blogspot.com/](https://kshitijbansodtech.blogspot.com/)
+- 📝 I regulary write articles on [https://www.linkedin.com/in/kshitij-bansod](https://www.linkedin.com/in/kshitij-bansod)
 
 - 💬 Ask me about **Basics,MaterialUI,New Tech Lang,Frameworks & Tech Gadgets**
 
-- 📫 How to reach me **kshitijbansod47@gmail.com**
+- 📫 How to reach me **kshitijbansod47@gmail.com** 
 
 - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kshitij9896" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" style="background-color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kshitij9896" height="30" width="40" /></a>
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kshitij_bansod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-bansod" height="30" width="40" /></a>
 <a href="https://instagram.com/thisiskshitijbansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisiskshitijbansod" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kshitij bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kshitij bansod" height="30" width="40" /></a>
-<a href="/https://kshitijbansodtech.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://kshitijbansodtech.blogspot.com/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.linkedin.com/in/kshitij-bansod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
