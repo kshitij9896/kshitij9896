@@ -57,4 +57,16 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitij9896&show_icons=true&locale=en&layout=compact" alt="kshitij9896" /></p>
+
+
+
+<h1 align="center">Github Stats</h1>
+ <div align="center" >
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij9896&)"><img src="https://activity-graph.herokuapp.com/graph?username=kshitij9896&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+
+
+
+
