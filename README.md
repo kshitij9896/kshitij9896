@@ -19,14 +19,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="background-color: white;">
-<a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" style="background-color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kshitij9896" height="30" width="40" /></a>
-<a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kshitij_bansod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-bansod" height="30" width="40" /></a>
-<a href="https://instagram.com/thisiskshitijbansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thisiskshitijbansod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kshitij bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kshitij bansod" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.linkedin.com/in/kshitij-bansod" height="30" width="40" /></a>
+
+<a href="https://kshitijbansod.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="kshitij" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kshitij" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij" height="30" width="40" /></a>
+<a href="https://instagram.com/thisiskshitijbansod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitij" height="30" width="40" /></a>
+<a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshitij" height="30" width="40" /></a>
 </p>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
