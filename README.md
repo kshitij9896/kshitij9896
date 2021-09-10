@@ -73,6 +73,10 @@
 
 ![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
+  
+<p align="center">
+  <img src="https://github.com/kshitij9896/kshitij9896/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
