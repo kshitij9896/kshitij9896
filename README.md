@@ -1,3 +1,6 @@
+
+
+<!-- ![Banner image for adavis GitHub profile](/giphy.webp) -->
 ![Banner image for adavis GitHub profile](/Kshitij.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod(Danny)</h1>
