@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij_bansod?logo=twitter&style=for-the-badge" alt="kshitij_bansod" /></a> </p>
-
 - 🔭 I’m currently working on **Basics & Advanced Concepets to streghen my work**
 
 - 🌱 I’m currently learning **JavaScript,Front-end developement & UI/UX **
@@ -75,8 +73,9 @@
 </div> 
 <div align="center">
 
+  ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG)
+
+  
+  
 ![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-
-
 
