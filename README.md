@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Front-end developement & UI/UX **
 
-- 👨‍💻 All of my projects are available at [https://kshitijbansod.netlify.app/](https://kshitijbansod.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kshitijbansod.netlify.app/](https://github.com/kshitij9896)
 
 - 📝 I regulary write articles on [https://www.linkedin.com/in/kshitij-bansod](https://www.linkedin.com/in/kshitij-bansod)
 
