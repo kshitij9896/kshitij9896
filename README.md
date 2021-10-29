@@ -14,7 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kshitij9896](https://github.com/kshitij9896)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/kshitij-bansod](https://www.linkedin.com/in/kshitij-bansod)
+- 📝 I regulary write articles on 
+<a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="kshitij" height="30" width="30"/></a>
 
 - 💬 Ask me about **Basics,MaterialUI,New Tech Lang,Frameworks & Tech Gadgets**
 
