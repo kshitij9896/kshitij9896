@@ -4,22 +4,22 @@
 ![Banner image for adavis GitHub profile](/Kshitij.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod(Danny)</h1>
-<h3 align="center">Aspiring 👋 Full Stack Web Developer | Software Developer 📍 India </h3>
+<h3 align="center"> 👋 Full Stack Web Developer | Software Developer 📍 India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" /> </p>
 
 - 🔭 I’m currently working on **Basics & Advanced Concepets to streghen my work**
 
-- 🌱 I’m currently learning **JavaScript,Front-end developement & UI/UX **
+<!-- - 🌱 I’m currently learning **JavaScript,Front-end developement & UI/UX **
 
 - 👨‍💻 All of my projects are available at [https://github.com/kshitij9896](https://github.com/kshitij9896)
-
+ -->
 - 📝 I regulary write articles on 
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="kshitij" height="30" width="30"/></a>
 
-- 💬 Ask me about **Basics,MaterialUI,New Tech Lang,Frameworks & Tech Gadgets**
+- 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media**
 
-- ⚡ Fun fact **Listening to music for hours, get bored with same stuff.**
+<!-- - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.** -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://instagram.com/thisiskshitijbansod" target="blank"><img align="center" src="images/instagram.png" alt="kshitij" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="images/twitter (2).png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img align="center" src="images/youtube.png" alt="kshitij" height="30" width="30" /></a>
+<!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img align="center" src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
 </p>
 <br/>
 
@@ -77,6 +77,6 @@
   ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG)
 
   
-  
+<!--   
 ![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
+ -->
