@@ -1,7 +1,7 @@
 
 
 <!-- ![Banner image for adavis GitHub profile](/giphy.webp) -->
-![Banner image for adavis GitHub profile](/Kshitij.png)
+![Banner image for adavis GitHub profile](image/dev.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod(Danny)</h1>
 <h3 align="center"> 👋 Full Stack Web Developer | Software Developer 📍 India </h3>
