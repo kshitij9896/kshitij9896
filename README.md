@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://kshitijbansod.netlify.app/" target="blank"><img align="center" src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<a href="https://kshitijbansodupdate.netlify.app/" target="blank"><img align="center" src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://instagram.com/thisiskshitijbansod" target="blank"><img align="center" src="images/instagram.png" alt="kshitij" height="30" width="30" /></a>&nbsp;
