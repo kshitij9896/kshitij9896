@@ -13,6 +13,9 @@
 - 📝 I regulary write articles on <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="kshitij" height="30" width="30"/></a>
 
 - 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media**
+- 📧 Email : **contactkshitij9@gmail.com**
+<!-- - 📱 Checkout My Posts On : **https://www.instagram.com/thisiskshitijbansod/** -->
+
 
 <!-- - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.** -->
 
@@ -69,8 +72,14 @@
 </div> 
 <div align="center">
 
-  ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG)
+<!--   ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG) -->
 
+  
+  
+<a href="https://github.com/kshitij9896/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kshitij9896">
+</a>
+<a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a>
   
 <!--   
 ![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
