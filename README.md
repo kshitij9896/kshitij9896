@@ -6,7 +6,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod(Danny)</h1>
 <h3 align="center"> 👋 Developer | Software Developer 📍 India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" />
+<a href="https://img.shields.io/twitter/follow/kshitij_bansod?label=Follow&style=social"><img src="https://img.shields.io/twitter/follow/kshitij_bansod?label=Follow&style=social" alt="Twitter Badge"></a>
+<a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **Javascript & React**
 
@@ -79,10 +84,6 @@
 
   
   
-<a href="https://github.com/kshitij9896/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kshitij9896">
-</a>
-<a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a>
   
 <!--   
 ![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
