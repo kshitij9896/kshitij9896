@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Javascript & React**
 
-- 📝 I regulary write articles on <a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30"/></a>
+- 📝 I regulary write articles on <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30"/></a>
 
 - 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media**
 - 📧 Email : **contactkshitij9@gmail.com**
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://kshitijbansodupdate.netlify.app/" target="blank"><img align="center" src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://dev.to/https://dev.to/kshitij9896" target="blank"><img align="center" src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<a href="https://dev.to/kshitij9896" target="blank"><img align="center" src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="images/twitter (2).png" alt="kshitij" height="30" width="30" /></a> &nbsp;
 <!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img align="center" src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
