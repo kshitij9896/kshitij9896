@@ -2,9 +2,9 @@
 
 <!-- ![Banner image for adavis GitHub profile](/giphy.webp) -->
 
-![Banner image for adavis GitHub profile](/dev1.png)
+![Banner image for adavis GitHub profile](/dev3.webp)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm @thisiskshitijbansod </h1>
 <h3 align="center"> 👋 Developer | Software Developer 📍 India </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" />
