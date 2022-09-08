@@ -1,9 +1,10 @@
 
 
 <!-- ![Banner image for adavis GitHub profile](/giphy.webp) -->
+
 ![Banner image for adavis GitHub profile](/dev1.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod(Danny)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kshitij Bansod </h1>
 <h3 align="center"> 👋 Developer | Software Developer 📍 India </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" />
@@ -11,29 +12,28 @@
 <a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
 
+<!-- - 🔭 I’m currently working on **Javascript & React** -->
 
+<!-- - 📝 I regulary write articles on <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30"/></a> -->
 
-- 🔭 I’m currently working on **Javascript & React**
-
-- 📝 I regulary write articles on <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30"/></a>
-
-- 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media**
+<!-- - 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media** -->
 - 📧 Email : **contactkshitij9@gmail.com**
 
 
 <!-- - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.** -->
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://kshitijbansodupdate.netlify.app/" target="blank"><img align="center" src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://dev.to/kshitij9896" target="blank"><img align="center" src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://twitter.com/kshitij_bansod" target="blank"><img align="center" src="images/twitter (2).png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img align="center" src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
 </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<!-- <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp; -->
+<!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
+</p>
+
 <br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
