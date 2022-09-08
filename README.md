@@ -17,16 +17,17 @@
 <!-- - 📝 I regulary write articles on <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30"/></a> -->
 
 <!-- - 💬 Ask me about **Web Developement,Web Design,UI/UX, & Social Media** -->
-- 📧 Email : **contactkshitij9@gmail.com**
+<!-- - 📧 Email : **contactkshitij9@gmail.com** -->
 
 
 <!-- - ⚡ Fun fact **Listening to music for hours, get bored with same stuff.** -->
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="kshitij" height="30" width="30" /></a> &nbsp;
-<a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="kshitij" height="30" width="30" /></a> &nbsp;
+<a href="mailto:contactkshitij9@gmail.com" target="blank"><img src="images/gmail.png" alt="Gmail" height="30" width="30" /></a> &nbsp;
+<a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="website" height="30" width="30" /></a> &nbsp;
+<a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="dev" height="30" width="30" /></a> &nbsp;
+<a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="twitter" height="30" width="30" /></a> &nbsp;
 <!-- <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp; -->
 <!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
 </p>
