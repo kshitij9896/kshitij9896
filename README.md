@@ -9,7 +9,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" />
 <a href="https://img.shields.io/twitter/follow/kshitij_bansod?label=Follow&style=social"><img src="https://img.shields.io/twitter/follow/kshitij_bansod?label=Follow&style=social" alt="Twitter Badge"></a>
-<a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+<!-- <a href="https://github.com/kshitij9896?tab=followers"><img src="https://img.shields.io/github/followers/kshitij9896?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+</p>
 
 
 <!-- - 🔭 I’m currently working on **Javascript & React** -->
@@ -28,6 +30,7 @@
 <a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="website" height="30" width="30" /></a> &nbsp;
 <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="dev" height="30" width="30" /></a> &nbsp;
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="twitter" height="30" width="30" /></a> &nbsp;
+<a href="https://thisiskshitijbansod.showwcase.com/" target="blank"><img src="images/logo.png" alt="showwcase" height="30" width="30" /></a> &nbsp;
 <!-- <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp; -->
 <!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
 </p>
@@ -73,16 +76,16 @@
  <div align="center" >
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact">
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij9896&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij9896&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /> -->
+<br><br>
 <!--   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij9896&theme=dracula" /> -->
 </div> 
 <div align="center">
 
-<!--   ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG) -->
+ <!-- ![Skyline](https://user-images.githubusercontent.com/63043352/133885927-e509713c-63e5-499f-b328-d4a90c5a90af.PNG) -->
 
   
   
   
-<!--   
-![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
- -->
+<!--
+![Kshitij's github activity graph](https://activity-graph.herokuapp.com/graph?username=kshitij9896&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
