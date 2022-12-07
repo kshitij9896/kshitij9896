@@ -74,7 +74,7 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=kshitij9896&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij9896&layout=compact">
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij9896&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij9896&theme=dracula" />
+<!--   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshitij9896&theme=dracula" /> -->
 </div> 
 <div align="center">
 
