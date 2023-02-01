@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:contactkshitij9@gmail.com" target="blank"><img src="images/gmail.png" alt="Gmail" height="30" width="30" /></a> &nbsp;
+<a href="mailto:contactkshitij9@gmail.com" target="blank"><img src="dev.png" alt="Gmail" height="30" width="30" /></a> &nbsp;
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="twitter" height="30" width="30" /></a> &nbsp;
 <a href="https://www.holopin.io/@kshitij9896#badges" target="blank"><img src="images/holopin.png" alt="dev" height="30" width="30" /></a> &nbsp;
 <a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="dev" height="30" width="30" /></a> &nbsp;
