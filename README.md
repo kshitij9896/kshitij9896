@@ -27,9 +27,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="mailto:contactkshitij9@gmail.com" target="blank"><img src="images/gmail.png" alt="Gmail" height="30" width="30" /></a> &nbsp;
-<a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="website" height="30" width="30" /></a> &nbsp;
-<a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="dev" height="30" width="30" /></a> &nbsp;
 <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="images/twitter (2).png" alt="twitter" height="30" width="30" /></a> &nbsp;
+<a href="https://www.holopin.io/@kshitij9896#badges" target="blank"><img src="images/holopin.png" alt="dev" height="30" width="30" /></a> &nbsp;
+<a href="https://dev.to/kshitij9896" target="blank"><img src="images/devto.png" alt="dev" height="30" width="30" /></a> &nbsp;
+<a href="https://thisiskshitijbansod.netlify.app/" target="blank"><img src="images/chrome.png" alt="website" height="30" width="30" /></a> &nbsp;
 <a href="https://thisiskshitijbansod.showwcase.com/" target="blank"><img src="images/logo.png" alt="showwcase" height="30" width="30" /></a> &nbsp;
 <!-- <a href="https://linkedin.com/in/kshitij-bansod" target="blank"><img src="images/transparent-Linkedin-logo-icon.png" alt="kshitij" height="30" width="30" /></a> &nbsp; -->
 <!-- <a href="https://www.youtube.com/channel/UCZ5t0z-xfRLEjCTO9j7InWg" target="blank"><img src="images/youtube.png" alt="kshitij" height="30" width="30" /></a> -->
