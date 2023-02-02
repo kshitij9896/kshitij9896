@@ -11,7 +11,6 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
 
 ## 🌐 Socials:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=plastic)](https://twitter.com/kshitij_bansod)
