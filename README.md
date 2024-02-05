@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm @thisiskshitijbansod</h1>
-<h3 align="center">👋 Web Developer | SDE 📍 India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kshitij9896&label=Profile%20views&color=0e75b6&style=flat" alt="kshitij9896" /> </p>
-
+<h1 align="center">Hi 👋, I'm @devkshitij7</h1>
+<h3 align="center">👋 SDE 📍 India</h3>
 
 <p align="center"> <a href="https://twitter.com/kshitij_bansod" target="blank"><img src="https://img.shields.io/twitter/follow/kshitij_bansod?logo=twitter&style=for-the-badge" alt="kshitij_bansod" /></a> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitij9896" alt="kshitij9896" /></a> </p>
